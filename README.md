@@ -1,6 +1,6 @@
 # Phân loại khách hàng tiềm năng
 
-🔗 Link tải đầy đủ bài nộp:
+🔗 Link video demo, và bài tập đầy đủ:
 👉 [Google Drive](https://drive.google.com/drive/folders/1qwbMV-WHSk8sXnCHrVbcO4MW5eeH3iUC?usp=drive_link)
 
 Bao gồm:
